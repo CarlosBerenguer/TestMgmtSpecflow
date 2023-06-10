@@ -213,8 +213,6 @@ namespace TestJamaTestMgmt.Test_Management.Cycle
             //Xpath of the dropdown button
             string xpathDropDownButton = $"//*[contains(@id, 'j-perspective-center-view-panel-item-panel-testplan-testRuns-current-cycle-combo')]/following-sibling::img";
 
-            
-
             //Open Cycles DropDown ( So the list is displayed and elements are added to the DOM )
             Helper.GetElementClickable(xpathDropDownButton).Click();
 
@@ -271,7 +269,6 @@ namespace TestJamaTestMgmt.Test_Management.Cycle
         }
         public string[] GetToastError(string toastErrorXpath)
         {
-            
             var pElement = Helper.GetListByXpath(toastErrorXpath);
             string[] toastMessage = new string[] { pElement.ElementAt(0).Text, pElement.ElementAt(1).Text };
             
