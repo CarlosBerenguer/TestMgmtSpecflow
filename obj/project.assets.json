@@ -7154,11 +7154,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kaike\\source\\repos\\TestJamaTestMgmt\\TestJamaTestMgmt.csproj",
+      "projectUniqueName": "C:\\Users\\kaike\\Source\\Repos\\TestMgmtSpecflow\\TestJamaTestMgmt.csproj",
       "projectName": "TestJamaTestMgmt",
-      "projectPath": "C:\\Users\\kaike\\source\\repos\\TestJamaTestMgmt\\TestJamaTestMgmt.csproj",
+      "projectPath": "C:\\Users\\kaike\\Source\\Repos\\TestMgmtSpecflow\\TestJamaTestMgmt.csproj",
       "packagesPath": "C:\\Users\\kaike\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kaike\\source\\repos\\TestJamaTestMgmt\\obj\\",
+      "outputPath": "C:\\Users\\kaike\\Source\\Repos\\TestMgmtSpecflow\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

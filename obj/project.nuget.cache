@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "udLkCPYVrVb2zHeQKUFL6PMWWVDzzEs7yrDSjXRkfXVl0xmB3YDCuW334fQ0PEiFlvSgUQz/70RHDFFCv3PX6w==",
+  "dgSpecHash": "cKfyj24bGY14yz3Jx7iLYlgnZa1J6O3c2AfTfkvQHccih4RvLRyxq8dhm4p0krJHhua+J4khsoDc7WX2KRNj6w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\kaike\\source\\repos\\TestJamaTestMgmt\\TestJamaTestMgmt.csproj",
+  "projectFilePath": "C:\\Users\\kaike\\Source\\Repos\\TestMgmtSpecflow\\TestJamaTestMgmt.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kaike\\.nuget\\packages\\bodi\\1.5.0\\bodi.1.5.0.nupkg.sha512",
     "C:\\Users\\kaike\\.nuget\\packages\\coverlet.collector\\3.2.0\\coverlet.collector.3.2.0.nupkg.sha512",

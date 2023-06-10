@@ -270,7 +270,6 @@ namespace TestJamaTestMgmt.Test_Management.Cycle
         public string[] GetToastError(string toastErrorXpath)
         {
             var pElement = Helper.GetListByXpath(toastErrorXpath);
-            
             string[] toastMessage = new string[] { pElement.ElementAt(0).Text, pElement.ElementAt(1).Text };
             
             return toastMessage;
